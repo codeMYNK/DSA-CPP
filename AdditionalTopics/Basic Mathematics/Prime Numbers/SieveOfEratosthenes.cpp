@@ -43,12 +43,12 @@ public:
 
         int ans = 0;
 
-        for (int i = 2; i < n; i++)
+        for (int i = 2; i * i <= n; i++)
         {
             if (prime[i])
             {
                 ans++;
-                int j = 2 * i;
+                int j = i * i;
                 while (j < n)
                 {
                     prime[j] = false;
