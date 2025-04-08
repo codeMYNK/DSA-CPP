@@ -1,0 +1,7 @@
+/*
+Abstraction is the process of hiding implementation and showing whatever is necessary. We can say that
+Abstraction is a super set of Encapsulation.
+
+Abstraction is generalization of implementation whereas Encapsulation is wrapping of child elements under parent element
+
+*/

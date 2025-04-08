@@ -8,6 +8,12 @@ Types of Inheritance :
 3. Multiple : The child class is inheriting properties from multiple base/parent classes.
 4. Heirarchal :  Multiple child classes are inheriting properties from a single base/parent class.
 5. Hybrid : Combining One or more than one of the above types.
+
+Common Question - Diamond Problem : This is a situation where a class inherits from multiple parent classes
+                                    and has same method names(due to method overriding), this creates an ambiguity
+                                    of which method to proceed with.
+                  Solution : We can use the virtual keyword explicitly to control this behaviour.
+                             We should always refrain from multiple inheritance.
 */
 
 #include <iostream>
