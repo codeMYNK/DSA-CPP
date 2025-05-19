@@ -4,15 +4,6 @@ This repository is a collection of DSA problems I'm solving in C++, with a focus
 
 ---
 
-## 📁 Folder Structure
-
-- `Arrays/` – Array-based problems including subarrays, sliding window, etc.
-- `Functions_Problem Statements/` – Function-driven problems (modular C++ practice).
-- `Patterns/` – Classic pattern printing questions.
-- `AdditionalTopics/` – Covers topics like Kadane's Algorithm, Searching, etc.
-- `Linked Lists/` - Covers the data structure of Linked List
-
----
 
 ## 🚀 Repo Highlights
 
@@ -22,15 +13,6 @@ This repository is a collection of DSA problems I'm solving in C++, with a focus
 <!-- - ✅ Traffic boost: **30+ unique cloners** and **39 total clones** (thank you, awesome people!) -->
 
 ---
-
-## 📌 What's Coming Next?
-
-I'm actively working on expanding the repo with in-depth coverage of:
-
-- 📚 Stacks & Queues
-- 🛠️ Heaps & Priority Queues
-- 🌳 Trees (BSTs, Binary Trees, Traversals)
-- 🌐 Graphs (BFS, DFS, Dijkstra, etc.)
 
 👨‍💻 Let’s Connect
 If you’re also grinding DSA or found this helpful, let’s connect on LinkedIn(https://www.linkedin.com/in/mayank-kumar-072482243/).
