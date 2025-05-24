@@ -4,6 +4,20 @@ This repository is a collection of DSA problems I'm solving in C++, with a focus
 
 ---
 
+## 📁 Folder Structure
+
+- `Arrays/` – Covers the data structure of Arrays
+- `Functions_Problem Statements/` – Function-driven problems (modular C++ practice).
+- `Patterns/` – Classic pattern printing questions.
+- `AdditionalTopics/` – Covers topics of OOPS Concepts, Optimal Mathematical Algos, DP, Hashmaps and Recursion
+- `Linked Lists/` - Covers the data structure of Linked List
+- `Stack/` - Covers the data structure of Stack
+- `Queue/` - Covers the data structure of Queues
+- `Trees/` - Covers the data structure of Trees
+- `Graphs/` - Covers the data structure of Graphs
+
+---
+
 
 ## 🚀 Repo Highlights
 
