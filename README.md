@@ -15,13 +15,14 @@ This repository is a collection of DSA problems I'm solving in C++, with a focus
 - `Queue/` - Covers the data structure of Queues
 - `Trees/` - Covers the data structure of Trees
 - `Graphs/` - Covers the data structure of Graphs
+- `Practice/` - Covers DSA Sheets / Contests
 
 ---
 
 
 ## 🚀 Repo Highlights
 
-- ✅ 100+ problems solved (and counting!)
+- ✅ 300+ problems solved (and counting!)
 - ✅ Classic interview questions from platforms like LeetCode, GFG, etc.
 - ✅ Beginner-friendly and clean C++ solutions
 <!-- - ✅ Traffic boost: **30+ unique cloners** and **39 total clones** (thank you, awesome people!) -->
